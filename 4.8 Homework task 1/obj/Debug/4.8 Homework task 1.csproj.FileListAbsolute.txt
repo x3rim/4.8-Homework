@@ -1,0 +1,8 @@
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\bin\Debug\4.8 Homework task 1.exe.config
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\bin\Debug\4.8 Homework task 1.exe
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\bin\Debug\4.8 Homework task 1.pdb
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\obj\Debug\4.8 Homework task 1.csproj.AssemblyReference.cache
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\obj\Debug\4.8 Homework task 1.csproj.SuggestedBindingRedirects.cache
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\obj\Debug\4.8 Homework task 1.csproj.CoreCompileInputs.cache
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\obj\Debug\4.8 Homework task 1.exe
+F:\Users\lordp\source\repos\4.8 Homework task 1\4.8 Homework task 1\obj\Debug\4.8 Homework task 1.pdb
