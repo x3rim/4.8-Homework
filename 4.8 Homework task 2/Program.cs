@@ -56,13 +56,13 @@ namespace _4._8_Homework_task_2
 
             int[,] arrayA = new int[line, columns];
 
-            Random randA = new Random();
+            Random randomaiser = new Random();
 
             for (int i = 0; i < line; i++)
             {
                 for (int j = 0; j < columns; j++)
                 {
-                    arrayA[i, j] = randA.Next(10);
+                    arrayA[i, j] = randomaiser.Next(10);
                     Console.Write($" {arrayA[i, j]}");
                 }
                 Console.WriteLine();
@@ -72,13 +72,11 @@ namespace _4._8_Homework_task_2
 
             int[,] arrayB = new int[line, columns];
 
-            Random randB = new Random();
-
             for (int i = 0; i < line; i++)
             {
                 for (int j = 0; j < columns; j++)
                 {
-                    arrayB[i, j] = randB.Next(10);
+                    arrayB[i, j] = randomaiser.Next(10);
                     Console.Write($" {arrayB[i, j]}");
                 }
                 Console.WriteLine();
