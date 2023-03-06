@@ -35,7 +35,7 @@ namespace _4._8_Homework_task_1
             Console.Write(("Введите количество столбцов: "));
             int columns = int.Parse(Console.ReadLine());
 
-            int amountOfElements = line * columns;
+            int sum = 0;
 
             int[,] array = new int[line, columns];
 
@@ -50,9 +50,17 @@ namespace _4._8_Homework_task_1
                     }
                 Console.WriteLine();
                 }
-                Console.Write($"\nКоличество элементов: {amountOfElements}");
 
-                Console.ReadKey();
+            for (int i = 0; i < line; i++)
+            {
+                for (int j = 0; j < columns; j++)
+                {
+                    sum += array[i, j];
+                }
+                Console.WriteLine();                
+            }
+            Console.WriteLine($"Cуммa всех элементов этой матрицы: {sum}");
+            Console.ReadKey();
         
 
         }
